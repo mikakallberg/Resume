@@ -1,6 +1,6 @@
 
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=EB+Garamond&display=swap');
 
 
 /*-----------------------------Colors*/
@@ -30,7 +30,7 @@
 }
 
 .bg-color-work-history {
-    background-color: #9b59b6;
+    background-color: #bf97d1;
 }
 
 .bg-color-contact {
@@ -38,11 +38,11 @@
 }
 
 .ui-menu-color-home {
-    background-color: #e67e22;
+    background-color: #bf97d1;
 }
 
 .ui-menu-color-resume {
-    background-color: #9b59b6;
+    background-color: #a9e2df;
 }
 
 .ui-menu-color-contact {
@@ -50,11 +50,11 @@
 }
 
 .ui-menu-color-interests {	
-    background-color: #e74c3c;	
+    background-color: #7fccec;	
 }
 
 .ui-menu-color-github {	
-    background-color: #1c4a6c;	
+    background-color: #678eac;	
 }
 
 .ui-menu-color-download {
@@ -62,7 +62,7 @@
 }
 
 body {
-    font-family: Roboto, sans-serif;
+    font-family: 'Cinzel', serif;
     font-weight: 300;
     background-color: #525252;
     color: #555555;
@@ -74,12 +74,16 @@ h1,h2,h3,h4 {
     margin: 0;
 }
 
+p {
+    font-family: 'EB Garamond', serif;
+}
+
 .uppercase {
     text-transform: uppercase;
 }
 
 .general-sub {
-    font-family: "Exo", sans-serif;
+    font-family: 'Cinzel', serif;
     font-weight: 300;
     color: #fafafa;
 }
@@ -100,7 +104,7 @@ h1,h2,h3,h4 {
 
 .history-heading,
 .section-heading {
-    font-family: "Exo", sans-serif;
+    font-family: 'Cinzel', serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 40px;
@@ -118,7 +122,7 @@ header {
 }
 
 .logo {
-    background: url(../images/rosie.jpeg);
+    background: url(avatar.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -129,7 +133,7 @@ header {
 }
 
 .name {
-    font-family: "Exo", sans-serif;
+    font-family: 'Cinzel', serif;
     font-weight: 100;
     font-size: 46px;
     margin-top: 50px;
@@ -137,7 +141,7 @@ header {
 }
 
 .title {
-    font-family: "Roboto", sans-serif;
+    font-family: 'Cinzel', serif;
     font-weight: 200;
     font-size: 28px;
     margin-top: 20px;
@@ -299,7 +303,7 @@ footer {
 
 .three-reasons-icon {
     font-size: 26px;
-    color: #e67e22;
+    color: #bf97d1;
 }
 
 .three-reasons-heading {
@@ -389,7 +393,7 @@ footer {
     position: absolute;
     left: 2.5em;
     top: 3em;
-    font-family: "Exo", sans-serif;
+    font-family: 'Cinzel', serif;
     font-weight: 500;
     font-size: 0.8em;
     padding: 0;
@@ -415,7 +419,7 @@ footer {
 /*-----------------------------Contact form*/
 
 .contact-heading {
-    font-family: "Exo", sans-serif;
+    font-family: 'Cinzel', serif;
     font-weight: 300;
     margin-top: 25px;
     margin-bottom: 20px;
