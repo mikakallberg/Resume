@@ -122,7 +122,7 @@ header {
 }
 
 .logo {
-    background: url(avatar.png);
+    background: url(../images/avatar.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
